@@ -10,24 +10,33 @@ Before we start it is important to note that the capacity dropper power supply i
 
 Components:
 
-Source
+1. Source
 
 
-Capacitor which must be X rated
+2. Capacitor which must be X rated
 
 
-Diodes
+3. Diodes
 
 
-Electrolytic capacitor
+4. Electrolytic capacitor
 
 
-Source: 
+Source:
+
+
 lets first define our Source side which will be Mains in most of the cases. I am using 220V and 50Hz.
 
+
 Output side
+
+
 in this example we will be designing for 5V and 250mV on the ouput when the load is known. 
+
 
 Voltage Divider
 The capacity dropper is essentialy a voltage divider which we are dropping all the voltages on one resistor and getting the required on our load
+
+
+
 
