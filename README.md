@@ -9,10 +9,18 @@ Before we start it is important to note that the capacity dropper power supply i
 
 
 Components:
+
 Source
+
+
 Capacitor which must be X rated
+
+
 Diodes
+
+
 Electrolytic capacitor
+
 
 Source: 
 lets first define our Source side which will be Mains in most of the cases. I am using 220V and 50Hz.
